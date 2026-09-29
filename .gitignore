@@ -1,0 +1,9 @@
+# Visual Studio
+bin/
+obj/
+*.user
+*.suo
+.vs/
+
+# App data - don't upload real user accounts/passwords
+users.json
